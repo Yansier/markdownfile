@@ -1,0 +1,32 @@
+````````````````````
+XY 40G--放系统
+
+aaPanel Internet IPv4 Address: https://13.125.232.78:2738/0d841c85
+aaPanel Internal Address:      https://172.31.44.147:2738/0d841c85
+username: ujy5accs
+password: 42d21f3e
+
+域名:licklicknowxe.click
+````````````````````
+最新数据库
+名称:xydatabase2
+用户名:xydatabase2
+密码:ihFaFNkbzWMeERCC
+
+管理员hash密码:$2y$10$IjOQpPXRovkI0llkoMRKqOmXa21R1.iHjYXHyhXqiWRztWUvY5GTe
+
+INSERT INTO users (username, password_hash)
+VALUES ('admin', '$2y$10$IjOQpPXRovkI0llkoMRKqOmXa21R1.iHjYXHyhXqiWRztWUvY5GTe');
+
+follower_count 进粉数
+unit_price 单价
+consume_amount 消耗
+income_amount = 进粉*单价 = 总收入
+net_profit = 进粉*单价 - 消耗 = 总利润
+account_count 拿户数量
+account_unit_price 户的价格
+homepage_count 主页数量
+homepage_unit_price 主页价格
+operation_count 操作号数量
+operation_unit_price 操作号价格
+purchase_total 总支出
