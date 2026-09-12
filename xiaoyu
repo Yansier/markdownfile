@@ -32,3 +32,14 @@ homepage_unit_price 主页价格
 operation_count 操作号数量
 operation_unit_price 操作号价格
 purchase_total 总支出
+
+
+香港服务器 === 后台管理部署
+152.32.132.127
+root
+Ai9mjV7#B7
+
+ 外网面板地址: http://152.32.132.127:38704/07370a30
+ 内网面板地址: https://10.7.7.126:38704/07370a30
+ username: z2nxktfd
+ password: 17dc79a2
